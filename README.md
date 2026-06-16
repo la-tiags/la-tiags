@@ -3,7 +3,6 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D13&center=true&vCenter=true&random=true&width=435&height=30&lines=Software+Engineering+Student;Tech+Enthusiast;Community+Volunteer" alt="Typing SVG" />
 </div>
-
 ---
 
 ### 📖 About Me
@@ -34,7 +33,6 @@ I maintain a self-hosted environment on a recycled Synology NAS, deploying servi
 <details>
   <summary>🎓 Projects from First Year (BUT Informatics)</summary>
   <br>
-  
   - **[S1.01 - Implémentation d'un besoin client](https://github.com/thomasdubost/R1.01-initiation-au-dev)**: Developed in **C** in collaboration with [@thomasdubost](https://github.com/thomasdubost). We architected a system to manage academic data following the specific modular logic and grading structure of the BUT curriculum.
 
   - *I'll be adding my other projects later*

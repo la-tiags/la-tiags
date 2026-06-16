@@ -34,7 +34,6 @@ I maintain a self-hosted environment on a recycled Synology NAS, deploying servi
 
 <details open>
   <summary>🎓 Projects from First Year (BUT Informatics)</summary>
-  <br>
 
   - **[S1.01 - Implémentation d'un besoin client](https://github.com/thomasdubost/R1.01-initiation-au-dev)**: Developed in **C** in collaboration with [@thomasdubost](https://github.com/thomasdubost). We architected a system to manage academic data following the specific modular logic and grading structure of the BUT curriculum.
 
@@ -44,7 +43,7 @@ I maintain a self-hosted environment on a recycled Synology NAS, deploying servi
 
 <details open>
   <summary>🚀 Personal Projects</summary>
-  <br>
+  
   
   - *I'll be adding my personal projects later*
   
@@ -73,10 +72,10 @@ I maintain a self-hosted environment on a recycled Synology NAS, deploying servi
 
 ### 📫 Connect with Me
 
-<p align="center">
-  
+<div align="center">
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tiago-joaquim/)
   [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:tiagoj@ik.me)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1030957512289169418)
-  
-</p>
+
+</div>

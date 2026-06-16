@@ -1,0 +1,25 @@
+name: Refresh Music Cache
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Recommended: running every 5 minutes to avoid rate limiting
+  workflow_dispatch: # Allows you to run it manually from the "Actions" tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Timestamp in README
+        run: |
+          sed -i "s/cb=[0-9]*/cb=$(date +%s)/g" README.md
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh music cache" || exit 0
+          git push

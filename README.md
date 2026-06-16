@@ -12,7 +12,7 @@
 I am a **Computer Science Student** (BUT Informatique) with a decade-long journey in computing that began with a "repair-to-own" challenge at age 11. I believe that technology reaches its full potential when paired with strong communication and community-driven goals.
 
 - 💻 **Technical Evolution:** From repairing hardware and mastering Linux/Bash as a teenager to managing a self-hosted home lab (Docker, Immich, Uptime Kuma), I've always been driven by a "deep-dive" curiosity into how systems and protocols operate.
-- 🎭 **Event Production & Comm:** I serve as an administrator for the *CRL 10* (Paris 10), where I manage technical production for live events—handling hardware setup, mixing, and digital streaming.
+- 🎭 **Event Production & Comm:** I serve as an administrator for the *CRL 10* (Paris 10), where I manage technical production for live events : handling hardware setup, mixing, and digital streaming.
 - 🤝 **Community Leadership:** Deeply involved in non-profits like *Jeunesse Arménienne de France*, I manage digital communications (social media, WordPress) and event brainstorming to foster community growth.
 - 🎈 **Youth Education:** A **BAFA-certified** youth leader, I bridge the gap between technology and people, using my experience in animation to communicate complex ideas clearly and patiently.
 

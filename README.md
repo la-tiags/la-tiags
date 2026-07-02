@@ -63,7 +63,7 @@ I maintain a self-hosted environment on a recycled Synology NAS, deploying servi
 ### 🎧 Recently Played on Last.fm
 
 <p align="center">
-  <a href="https://www.last.fm/user/tiagojo"><img src="https://lastfm-recently-played.vercel.app/api?user=tiagojo&count=3&cb=1783004924" alt="Last.fm" /></a>
+  <a href="https://www.last.fm/user/tiagojo"><img src="https://lastfm-recently-played.vercel.app/api?user=tiagojo&count=3&cb=1783011722" alt="Last.fm" /></a>
 </p>
 
 ---

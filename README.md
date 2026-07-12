@@ -51,15 +51,6 @@ I maintain a self-hosted environment on a recycled Synology NAS, deploying servi
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=la-tiags&show_icons=true&theme=slateorange&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-tiags&layout=donut&theme=slateorange&hide_border=true"/>
-</div>
-
----
-
 ### 🎧 Recently Played on Last.fm
 
 <p align="center">
